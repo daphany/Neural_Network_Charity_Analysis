@@ -22,5 +22,5 @@ No <br/>
 I dropped another column('STATUS), binned 'AFFLICATION' column, changed 'Classification counts', added a third hidden layer, changed the number of neurons in each layer, changed activation function from sigmoid to tanh <br/>
 
 ## Summary
-To summarize, after making multiple adjustments on the model, the highest accuracy I got is 0.63% with a loss of 0.65 which is below the required performance of 75%. /n
+To summarize, after making multiple adjustments on the model, the highest accuracy I got is 0.63% with a loss of 0.65 which is below the required performance of 75%. <br/>
 * recommendation: Since we only have tabular data, I would try using Ramdon forest classifier due to its robustness and scalability. Both output and feature selection of random forest models are easy to interpret, and they can easily handle outliers and nonlinear data.
