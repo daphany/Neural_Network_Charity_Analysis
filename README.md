@@ -15,7 +15,7 @@ Columns that don't contribute to the target or the noisy variables; in this case
 **How many neurons, layers, and activation functions did you select for your neural network model, and why?** <br/>
 I started with only 2 layers (10:5 neurons) and eventually increased to 3 hidden layers(80:50:20) and 1 output layer by trial and errors. <br/>
 <img src="Resources/Deliverable2_model.PNG" width="800">
-<img src="Resources/Deliverable3_model.PNG" width="800">
+<img src="Resources/Deliverable3_model.PNG" width="800"> <br/>
 **Were you able to achieve the target model performance?** <br/>
 No <br/>
 **What steps did you take to try and increase model performance?** <br/>
